@@ -12,4 +12,4 @@ It also has a feature that lets you download the monthly data collected by that 
 <h3>Steps to follow to use the BLEConnect App:</h3>
 
 <h4><bold>STEP 1:</bold> Open the BLEConnect App. You will see this opening frame.</h4>
-![Step 1](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLEConnect%20SS/Opening Frame SCAN.jpeg)
+![Step 1](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLEConnect%20SS/Opening%20Frame%20SCAN.jpeg)
