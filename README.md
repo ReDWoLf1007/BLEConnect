@@ -42,8 +42,13 @@ It also has a feature that lets you download the monthly data collected by that 
 
 ![Step 6](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_6.png)
 
+![image](https://github.com/user-attachments/assets/c1cac6c1-36f9-4e2a-927a-612626546c1c)
+
+
 # STEP 7: 
 ***Now wait for the download to complete and the device’s data will be saved in your phone download folder.***
+
+![image](https://github.com/user-attachments/assets/3a89ff1b-f088-4be1-8729-94ab4fd4df49)
 
 ![Step 7](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_7.png)
 
@@ -52,6 +57,5 @@ It also has a feature that lets you download the monthly data collected by that 
 
 ![PRECAUTION](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_8.png)
 
-![image](https://github.com/user-attachments/assets/3a89ff1b-f088-4be1-8729-94ab4fd4df49)
 
 
