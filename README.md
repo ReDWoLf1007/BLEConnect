@@ -5,10 +5,7 @@ I have created this BLECoonect app, that let's you connect to a BLE device (work
 It also has a feature that lets you download the monthly data collected by that BLE device.
 
 
-<h1>This is the Overview and steps to follow to use the main functionality of the app <span>A guide for this App</span></h1>
-
-
-
+<h1>This is the Overview and steps to follow to use the main functionality of the app</h1>
 
 <h3>App Name: BLEConnect</h3>
 
