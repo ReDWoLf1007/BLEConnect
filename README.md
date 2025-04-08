@@ -22,12 +22,12 @@ It also has a feature that lets you download the monthly data collected by that 
 
 ![Step 2](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_2.png)
 
-#STEP 3: 
+# STEP 3: 
 ***Now you will see the User Interface that looks something like the image shown below. With the device’s name on the top.***
 
 ![Step 3](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_3.png)
 
-#STEP 4: 
+# STEP 4: 
 ***After the APP is connected with the Bluetooth DEVICE, the button to SHOW TABLE will be available.***
 
 ![Step 4](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_4.png)
@@ -50,5 +50,8 @@ It also has a feature that lets you download the monthly data collected by that 
 #PRECAUTION: 
 ***If the connection is lost while the LIVE TABLE DATA was open, the data will stop showing and a message CARD will be visible.***
 
-![PRECAUTION}(https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_8.png)
+![PRECAUTION](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_8.png)
+
+![image](https://github.com/user-attachments/assets/3a89ff1b-f088-4be1-8729-94ab4fd4df49)
+
 
