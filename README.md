@@ -4,10 +4,10 @@ The codebase is missing some essential logic due to privacy concerns and copyrig
 I have created this BLECoonect app, that let's you connect to a BLE device (works on specific device only that is supplied by TIBE Innovations PVT. LTD. Company), and start reading stats thrown by that device.
 It also has a feature that lets you download the monthly data collected by that BLE device.
 
-<div>
-  <h1>This is the Overview and steps to follow to use the main functionality of the app</h1>
-  <span>A guide for this App</span>
-</div>
+
+<h1>This is the Overview and steps to follow to use the main functionality of the app <span>A guide for this App</span></h1>
+
+
 
 
 <h3>App Name: BLEConnect</h3>
