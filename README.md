@@ -48,9 +48,9 @@ It also has a feature that lets you download the monthly data collected by that 
 # STEP 7: 
 ***Now wait for the download to complete and the device’s data will be saved in your phone download folder.***
 
-![image](https://github.com/user-attachments/assets/3a89ff1b-f088-4be1-8729-94ab4fd4df49)
-
 ![Step 7](https://github.com/ReDWoLf1007/BLEConnect/blob/master/BLE%20SS%20Guide/Step_7.png)
+
+![image](https://github.com/user-attachments/assets/3a89ff1b-f088-4be1-8729-94ab4fd4df49)
 
 #PRECAUTION: 
 ***If the connection is lost while the LIVE TABLE DATA was open, the data will stop showing and a message CARD will be visible.***
